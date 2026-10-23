@@ -1,7 +1,7 @@
 (function() {
     // 1. Define the banned emails (Keep them lowercase)
     const bannedEmails = [
-        "mc1079@wscloud.org",
+        "lk1038@wscloud.org",
     
     ];
 
